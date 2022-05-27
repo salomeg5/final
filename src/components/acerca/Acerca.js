@@ -4,7 +4,7 @@ function Acerca(){
     return(
         <div className="acerca">
             <div className="infolab">
-                <h2 className="titlab"><i class="fas fa-user-graduate"></i> EDUCACIÓN</h2>
+            <h2 className="titlab"><i class="fas fa-user-graduate"></i> EDUCACIÓN</h2>
             </div>
 
             <div className="estudio">
