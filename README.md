@@ -16,9 +16,8 @@ import {
 
 function Home(){
 
-
 	return(
-	<div className="container">
+	<div className="containe">
     <Link to="/portafolio" className="btn btn-primary ">Hoja de Vida</Link>       
       </div>
 		);
