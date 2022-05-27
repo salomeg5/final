@@ -1,12 +1,12 @@
 
 
-## **Parcial final**
+## **Parcial**
 ---
 Parcial final
 
 ## **Participantes**
 ---
-Juan Pablo Sepulveda Salinas & Salome Gallego Arbelaez
+Juan Pablo Sepúlveda Salinas & Salomé Gallego Arbelaez
 
 ## **Home**
 ```JavaScript
