@@ -9,9 +9,6 @@ Parcial
 Juan Pablo Sepulveda Salinas & Salome Gallego Arbelaez
 
 
-
-
-
 ## **Home**
 ```JavaScript
 import {
