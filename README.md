@@ -6,7 +6,7 @@ Parcial
 
 ## **Participantes**
 ---
-Juan Pablo Sepúlveda Salinas & Salomé Gallego Arbelaez
+Juan Pablo Sepulveda Salinas & Salome Gallego Arbelaez
 
 
 
