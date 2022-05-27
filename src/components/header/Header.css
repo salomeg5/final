@@ -1,0 +1,44 @@
+header{
+    background-image: url('header.png');
+    background-repeat: no-repeat;
+    display: flex;
+    padding: 40px;
+}
+.foto{
+    flex-basis: 20%;
+    text-align: center;
+}
+
+.foto img{
+    max-width: 150px;
+    border-radius: 50%;
+    border: 7px solid #FFFFFF;
+}
+
+.texto{
+    flex-basis: 180%;
+}
+
+.texto h3{
+    font-weight: 150;
+    color: black;
+}
+
+.nombre{
+    color: hsl(278, 91%, 47%);
+}
+
+@media screen and (max-width: 500px) {
+    header{
+        background-image: url('header.png');
+        display: inline-block;
+    }
+
+    .ah1{
+        color: black;
+    }
+
+    .foto{
+        align-content: center;
+    }
+  }

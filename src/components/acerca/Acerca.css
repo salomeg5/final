@@ -1,0 +1,62 @@
+.acerca{
+    flex-basis: 50%;
+  }
+
+.habilidades{
+  margin-left: 5px;
+}
+
+.infolab{
+    padding: 10px ;
+}
+
+
+.titlab{
+    background-color: #9f0be3;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 5px 20px;
+    color: white;
+    margin: 10px 0;
+}
+
+.año{
+  color: black;
+  font-size: 13px;
+  padding-left: 12px;
+}
+
+.estudio p{
+    padding-left: 30px;
+    margin: 10px 0;
+}
+
+.estudio h4{
+  margin-left: 0.8rem;
+}
+
+progress{
+  margin-left: 60px;
+}
+
+progress[value] {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 200px;
+    height: 15px;
+  }
+  progress[value]::-webkit-progress-bar {
+    background-color: #cccccc;
+    border-radius: 4px;
+  }
+  progress[value]::-webkit-progress-value {
+    background-image: -webkit-linear-gradient(-45deg, transparent 33%, rgba(0, 0, 0, .2) 33%, rgba(0, 0, 0, .2) 66%, transparent 66%), -webkit-linear-gradient(top, rgba(255, 255, 255, .25), rgba(0, 0, 0, .25)), -webkit-linear-gradient(left, #9f0be3, #ae00ff);
+    border-radius: 4px;
+    background-size: 20px 15px, 100% 100%, 100% 100%;
+  }
+
+@media screen and (max-width: 500px) {
+  .acerca{
+    flex-direction: column;
+  }
+}
