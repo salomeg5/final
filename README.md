@@ -17,7 +17,7 @@ Juan Pablo Sepulveda Salinas & Salome Gallego Arbelaez
 import {
     Link
   } from "react-router-dom";
-
+  
 
 function Home(){
 
