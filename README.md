@@ -30,6 +30,9 @@ function Home(){
 
 export default Home;
 
+
+
+
 ## **Portafolio**
 import Header from '../components/header/Header';
 import Contact from '../components/contact/Contact';
