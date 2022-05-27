@@ -6,7 +6,7 @@ Parcial
 
 ## **Participantes**
 ---
-Juan Pablo Sepúlveda Salinas & Salomé Gallego Arbelaes
+Juan Pablo Sepúlveda Salinas & Salomé Gallego Arbelaez
 
 
 
@@ -27,11 +27,7 @@ function Home(){
       </div>
 		);
 }
-
 export default Home;
-
-
-
 
 ## **Portafolio**
 import Header from '../components/header/Header';
