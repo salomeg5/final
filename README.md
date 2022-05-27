@@ -2,12 +2,11 @@
 
 ## **Parcial**
 ---
-Parcial
+Parcial final
 
 ## **Participantes**
 ---
 Juan Pablo Sepulveda Salinas & Salome Gallego Arbelaez
-
 
 ## **Home**
 ```JavaScript
